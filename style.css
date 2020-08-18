@@ -1,12 +1,11 @@
-.myDiv {
- margin-left: 60%;
-    background-color: #36393F;
-    color: #F3D745;
-    text-align: center;
-    font-size: 35px;
-    padding: 10px;
-    text-decoration: none;
-    border-radius: 15px;
-    width: 20%;
-    margin-top: -200px;
+body
+{
+	background-color: #f6780e;
+	color: #ffffff;
+	font: 15px Arial, sans-serif;
 }
+h1
+{
+	margin-left: 10px;
+}
+
