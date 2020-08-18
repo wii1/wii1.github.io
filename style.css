@@ -8,4 +8,9 @@ h1
 {
 	margin-left: 10px;
 }
+.myDiv {
+  border: 5px outset white;
+  background-color: orange;
+  text-align: center;
+}
 
