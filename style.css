@@ -1,12 +1,10 @@
-body
+wiiText1
 {
 	background-color: #f6780e;
 	color: #ffffff;
 	font: 15px Arial, sans-serif;
+        margin-left: 10px;
 }
-h1
-{
-	margin-left: 10px;
-}
+
 
 
