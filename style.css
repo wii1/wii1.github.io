@@ -11,6 +11,8 @@ h1
 animation-name: wiianime1;
 	animation-duration: 15s;
 	animation-iteration-count: infinite;
+	text-decoration: none; 
+   	background-color: none;
 }
 
 @keyframes wiianime1 {
