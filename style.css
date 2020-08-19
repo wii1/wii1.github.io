@@ -4,6 +4,30 @@ body
 	color: #ffffff;
 	font: 15px Arial, sans-serif;
         margin-left: 10px;
+	animation-name: wiianime1;
+	animation-duration: 5s;
 }
+
+@keyframes wiianime1 {
+	0% {background-color: white}
+	10% {background-color: red}
+	20% {background-color: blue}
+	30% {background-color: orange}
+	40% {background-color: purple}
+	50% {background-color: indigo}
+	60% {background-color: violet}
+	70% {background-color: silver}
+	80% {background-color: gold}
+	90% {background-color: lightblue}
+	100% {background-color: red}
+
+
+
+
+
+
+}
+
+
 
 
