@@ -9,14 +9,14 @@ body
 h1
 {
 animation-name: wiianime1;
-	animation-duration: 30s;
+	animation-duration: 15s;
 	animation-iteration-count: infinite;
 }
 
 @keyframes wiianime1 {
-	0% {background-color: WhiteSmoke}
-	50% {background-color: SteelBlue}
-	100% {background-color: RoyalBlue}
+	0% {color: WhiteSmoke}
+	50% {color: SteelBlue}
+	100% {color: RoyalBlue}
 
 }
 
