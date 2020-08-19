@@ -6,6 +6,12 @@ body
         margin-left: 10px;
 	animation-name: wiianime1;
 	animation-duration: 5s;
+	animation-iteration-count: infinite;
+}
+
+.text
+{
+
 }
 
 @keyframes wiianime1 {
